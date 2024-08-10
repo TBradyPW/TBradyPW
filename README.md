@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TBradyPW
-- 👀 I’m interested in killing my self because of stress from coding (i need a gf frfr)
-- 🌱 I’m currently learning laravel 
-- 💞️ I’m looking to collaborate on I NEED GF 
+- 👀 I’m interested in killing my self because of stress from coding 
+- 🌱 I’m currently learning NODE.JS 
+- 💞️ I’m looking to collaborate on I NEED EMOTIONAL SUPPORT
 - 📫 How to reach me @timothybrady532@gmail.com or @timothybradyy at instagram
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
