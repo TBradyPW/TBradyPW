@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TBradyPW
 - 👀 I’m interested in killing my self because of stress from coding 
 - 🌱 I’m currently learning GO 
-- 💞️ I’m looking FOR EMOTIONAL SUPPORT FFS
 - 📫 How to reach me @timothybrady532@gmail.com or @timothybradyy at instagram
 <!---
 TBradyPW/TBradyPW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
